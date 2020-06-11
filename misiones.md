@@ -1,3 +1,4 @@
 # misiones
 
-Investigar a alguien
+* Investigar a alguien
+* Capturar a otro
